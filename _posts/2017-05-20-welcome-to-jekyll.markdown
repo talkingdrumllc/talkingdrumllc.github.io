@@ -1,25 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why You Need Talking Drum"
 date:   2017-05-20 15:00:10 -0700
-categories: jekyll update
+categories: about business
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+You have a small to medium size business, and you have software needs. You need a website, you need a mobile app, or maybe you need both. You could be at the nascent stages of your business. Or you may already have a solution in hand, perhaps a tech company handed you the keys two years ago, and now you'd like to make some improvements.
 
-Jekyll also offers powerful support for code snippets:
+No matter which of these cases describes you, there is one common factor: you need to find the right technology partners to create a long term relationship. Nearly every software development firm will tell you they're a great fit. After all, you're amazing, and they want your business!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+But not every technology firm is actually a good fit for you.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## The 3 Ps of the Business/Technology Interface
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Product
+* People
+* Process
+
+### Product
+
+### People
+
+### Process
