@@ -1,0 +1,71 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$lightGreen: #35ae57;
+$darkGreen: #237239;
+
+$lightBrown: #cc691e;
+$darkBrown: #aa5819;
+
+a {
+	color:  $lightGreen;
+
+	&:hover {
+		color: $darkGreen;
+		text-decoration: underline;
+	}
+}
+
+header {
+	h1 {
+		margin-bottom: 0;
+	}
+
+	.subheading {
+		text-align: center;
+		color: $darkBrown;
+	}
+}
+
+h2 {
+	margin-top: 2em;
+}
+
+h1, h2 {
+	// color: $lightBrown;
+	color: darken($darkGreen, 5%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	// color: $darkGreen;
+}
+
+section.main-content {
+	padding-top: 6em;
+	padding-bottom: 0;
+	// border-color: $darkBrown;
+}
+
+section > p {
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+.contact-info {
+	h3, p {
+		text-align: center;
+	}
+}
+
+@media print, screen and (max-width: 960px) {
+	section.main-content {
+		padding-top: 2em;
+		padding-bottom: 2em;
+	}
+
+	h2 { 
+		margin-top: 0;
+	}
+}
